@@ -1,0 +1,25 @@
+div.ca_facebook_feed_plus_wrapper {
+	position: relative;
+}
+
+div.ca_facebook_feed_plus_wrapper .form_field {
+	margin-bottom: 15px;
+	background: #DEDEDE;
+	padding: 9px;
+	max-width: 600px;
+}
+
+div.ca_facebook_feed_plus_wrapper .form_field label {
+	font-weight: bold;
+}
+
+div.ca_facebook_feed_plus_wrapper #side-sortables {
+	width: 500px;
+	position: absolute;
+	top: 9px;
+	right: 9px;
+}
+
+div.ca_facebook_feed_plus_wrapper .full_width_banner {
+	margin-top: 21px;
+}
